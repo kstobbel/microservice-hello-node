@@ -1,2 +1,5 @@
 # Ignore silly MacOS files
 *DS_Store
+
+# Dependency directories
+node_modules/

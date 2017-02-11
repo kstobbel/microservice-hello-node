@@ -1,0 +1,27 @@
+{
+  "name": "microservice-hello-node",
+  "version": "1.0.0",
+  "description": "A Hello World microservice implementation with node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kstobbel/microservice-hello-node.git"
+  },
+  "keywords": [
+    "microservice",
+    "node"
+  ],
+  "dependencies": {
+    "cors": "^2.7.2",
+    "express": "^4.13.4"
+  },
+  "author": "kstobbel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kstobbel/microservice-hello-node/issues"
+  },
+  "homepage": "https://github.com/kstobbel/microservice-hello-node#readme"
+}
