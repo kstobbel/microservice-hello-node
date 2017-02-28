@@ -1,6 +1,6 @@
 {
   "name": "microservice-hello-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hello World microservice implementation with node",
   "main": "index.js",
   "scripts": {
